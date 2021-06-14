@@ -1,0 +1,28 @@
+#content{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin: 0px auto;
+}
+#italic{
+    font-style:italic;
+}
+#list{
+    list-style: none;
+}
+.center{
+    text-align: center;
+}
+
+
+#Spaghetti{
+    width: 600px;
+    height: auto; /* em chỉnh thành auto mà không phải 350px theo đề vì ảnh của em lấy là ảnh dọc nên khi chỉnh thành 250px thì nó bị mờ ạ!*/
+}
+
+.Steak{
+    width: 150px;
+    height:150px;
+}
+
+
+
